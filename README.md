@@ -1,6 +1,10 @@
 # EmployWise Frontend Assignment 🏆
 
 This is a React-based frontend project for user management using the [Reqres API](https://reqres.in/). It includes authentication, user listing with pagination, editing, and deleting users.
+ # For Login
+ email-eve.holt@reqres.in
+ pass-any greater then 6
+
 
 ## 🚀 Features
 - ✅ User authentication (Login)
